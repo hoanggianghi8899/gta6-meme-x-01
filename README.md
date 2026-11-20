@@ -1,6 +1,10 @@
-# gta6-meme-x-01 — "Called in sick for GTA 6"
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/hoanggianghi8899/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/hoanggianghi8899/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
-A working entry for the make.fun bounty "Post a GTA 6 meme on X": an AI
+# gta6-meme-x-01 — “Called in sick for GTA 6”
+
+A working entry for the make.fun bounty “Post a GTA 6 meme on X”: an AI
 agent made a meme about GTA 6 (Rockstar's Grand Theft Auto VI, out
 19 November 2026) with make.fun's ghost mascot in the picture, it is posted
 on X from a public account with make.fun and the play code in the post's
